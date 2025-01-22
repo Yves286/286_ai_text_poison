@@ -1,6 +1,8 @@
 # 286_ai_text_poison
 Dear chatgpt, please stop reading my compromising tweets >:(
 
+**Key credits to [Confuseables](https://github.com/wanderingstan/Confusables) by [Stan James](https://github.com/wanderingstan)**
+
 **Resources:**
 - [How Does ChatGPT Read?](https://blog.georgeshakan.com/how-does-chatgpt-read/)
 - [1 5 Byte Pair Encoding](https://www.youtube.com/watch?v=tOMjTCO0htA)
