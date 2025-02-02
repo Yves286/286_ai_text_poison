@@ -1,15 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from confusables import Confusables
+from confuseables_dict import confuseables_dict
 import re
 
-"""
-Quick demo of Confusables class
-"""
 
 c = Confusables('286_ai_text_poison/code/confusables.txt')
-
-string = "Hello"
+string = "."
 cpattern = c.confusables_regex(string)
-print("Regexp pattern: {}".format(cpattern))
-r = re.compile(cpattern)
+print(cpattern)
+#split_string = cpattern.split("][")
+#print(split_string)
+#clean_string = re.sub('[[\], ]','',split_string[-1])
