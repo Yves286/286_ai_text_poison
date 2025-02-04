@@ -12,9 +12,3 @@ def replace_char(str_input):
             output = output + c
     return output
         
-
-if __name__ == "__main__":
-    str_user = None
-    while (str_user is None) or (len(str_user) == 0):
-        str_user = input("Input the text you want encoded: ")
-    print("Your encoded text is: " + replace_char(str_user))
