@@ -7,7 +7,13 @@ Dear chatgpt, please stop reading my problematic tweets >:(
 - [How Does ChatGPT Read?](https://blog.georgeshakan.com/how-does-chatgpt-read/)
 - [1 5 Byte Pair Encoding](https://www.youtube.com/watch?v=tOMjTCO0htA)
 
+## Execution
 
+There are 2 versions of the app, `console.py` (which is fully executed inside the command prompt) and `interface.py` which opens the app with a user-friendly interface.
+They can be executed with:
+```python .\console.py
+python .\interface.py```
+Respectively.
 
 ### Extras
 
