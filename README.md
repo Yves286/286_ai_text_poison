@@ -16,6 +16,8 @@ python .\console.py
 python .\interface.py
 ```
 Respectively.
+`console.py` will just prompt for the encoded text.
+`interface.py` has a top text box that easily allows for more text to be input. The `submit` button will encode the text and the result is in the second text box.
 
 ### Extras
 
