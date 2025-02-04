@@ -11,8 +11,10 @@ Dear chatgpt, please stop reading my problematic tweets >:(
 
 There are 2 versions of the app, `console.py` (which is fully executed inside the command prompt) and `interface.py` which opens the app with a user-friendly interface.
 They can be executed with:
-```python .\console.py
-python .\interface.py```
+```
+python .\console.py
+python .\interface.py
+```
 Respectively.
 
 ### Extras
